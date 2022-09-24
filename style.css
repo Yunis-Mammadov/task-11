@@ -1,0 +1,23 @@
+body{
+    background-color: rgb(215, 215, 215)
+}
+.square{
+    width: 350px;
+    height: 320px;
+    border: 2px solid white;
+    background-color: white;
+    margin: 20px 50px;
+    float: left;
+}
+.square_second{
+    box-shadow: 1px 1px gray;
+}
+.square_third{
+    box-shadow: 3px 3px gray;
+}.square_fourth{
+    box-shadow: 5px 5px gray;
+}.square_fifth{
+    box-shadow: 7px 7px gray;
+}.square_sixth{
+    box-shadow: 9px 9px gray;
+}
